@@ -1,5 +1,12 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Data Structures 
+- 🌱 I’m currently learning Data Structures
+- 👯 I’m looking to collaborate on Website Development
+- 🤔 I’m looking for help with Artificial Intelligence
+- 💬 Ask me about Development
+- 📫 How to reach me: pedroiff0@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love nature more than developers (i'm a dev)
 <!--
 **trebas/trebas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
